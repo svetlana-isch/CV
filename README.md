@@ -1,3 +1,3 @@
 # CV
 Мое резюме
-Made with \href{https://ru.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc}{FAANG Resume Template}
+Made with [FAANG Resume Template](https://ru.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc)
